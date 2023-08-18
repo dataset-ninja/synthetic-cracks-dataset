@@ -1,3 +1,3 @@
 # Supervisely Synthetic Crack Segmentation
 
-Supervisely Synthetic Crack Segmentation is a dataset for semantic segmentation tasks.
+Synthetic dataset for crack segmentation that was generated automatically for research purposes by Supervisely team.
