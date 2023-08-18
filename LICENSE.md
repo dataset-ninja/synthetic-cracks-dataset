@@ -1,1 +1,1 @@
-Synthetic Cracks Dataset is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+Supervisely Synthetic Crack Segmentation is under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license.
