@@ -13,8 +13,8 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "Synthetic Cracks Dataset"
-PROJECT_NAME_FULL: str = "Synthetic Cracks Dataset"
+PROJECT_NAME: str = "Supervisely Synthetic Crack Segmentation"
+PROJECT_NAME_FULL: str = "Supervisely Synthetic Crack Segmentation"
 HIDE_DATASET = True  # set False when 100% sure about repo quality
 
 ##################################
@@ -31,7 +31,7 @@ RELEASE_DATE: Optional[str] = "2023-08-16"  # e.g. "YYYY-MM-DD"
 if RELEASE_DATE is None:
     RELEASE_YEAR: int = None
 
-HOMEPAGE_URL: str = "https://supervisely.com/blog/"
+HOMEPAGE_URL: str = "https://supervisely.com/blog/introducing-supervisely-synthetic-crack-segmentation-dataset/"
 # e.g. "https://some.com/dataset/homepage"
 
 PREVIEW_IMAGE_ID: int = 2004137
@@ -53,7 +53,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[Union[str, List[str]]] = None
 BLOGPOST: Optional[Union[str, List[str]]] = None
 CITATION_URL: Optional[str] = None
-AUTHORS: Optional[List[str]] = ["Maxim Eliseev"]
+AUTHORS: Optional[List[str]] = ["Supervisely"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Supervisely"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://supervisely.com/"
