@@ -20,7 +20,7 @@ HIDE_DATASET = True  # set False when 100% sure about repo quality
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.CC_BY_4_0()
+LICENSE: License = License.CC_BY_NC_4_0()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Utilities(is_used=False)]
 CATEGORY: Category = Category.EnergyAndUtilities()
 
@@ -31,7 +31,9 @@ RELEASE_DATE: Optional[str] = "2023-08-16"  # e.g. "YYYY-MM-DD"
 if RELEASE_DATE is None:
     RELEASE_YEAR: int = None
 
-HOMEPAGE_URL: str = "https://supervisely.com/blog/introducing-supervisely-synthetic-crack-segmentation-dataset/"
+HOMEPAGE_URL: str = (
+    "https://supervisely.com/blog/introducing-supervisely-synthetic-crack-segmentation-dataset/"
+)
 # e.g. "https://some.com/dataset/homepage"
 
 PREVIEW_IMAGE_ID: int = 2004137
