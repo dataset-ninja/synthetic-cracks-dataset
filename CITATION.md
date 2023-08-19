@@ -1,12 +1,12 @@
-If you make use of the Synthetic Cracks Dataset data, please cite the following reference:
+If you make use of the Supervisely Synthetic Crack Segmentation data, please cite the following reference:
 
 ``` bibtex 
-@dataset{Synthetic Cracks Dataset,
-	author={Maxim Eliseev},
-	title={Synthetic Cracks Dataset},
+@dataset{Supervisely Synthetic Crack Segmentation,
+	author={Supervisely},
+	title={Supervisely Synthetic Crack Segmentation},
 	year={2023},
-	url={https://supervisely.com/blog/}
+	url={https://supervisely.com/blog/introducing-supervisely-synthetic-crack-segmentation-dataset/}
 }
 ```
 
-[Source](https://supervisely.com/blog/)
+[Source](https://supervisely.com/blog/introducing-supervisely-synthetic-crack-segmentation-dataset/)
