@@ -21,7 +21,7 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.CC_BY_NC_4_0()
-APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Utilities(is_used=False)]
+APPLICATIONS: List[Union[Industry, Domain, Research]] = [Domain.Industrial(is_used=False)]
 CATEGORY: Category = Category.EnergyAndUtilities()
 
 CV_TASKS: List[CVTask] = [CVTask.SemanticSegmentation()]
