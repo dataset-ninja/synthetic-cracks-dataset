@@ -22,7 +22,7 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 ##################################
 LICENSE: License = License.CC_BY_NC_4_0()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Domain.Industrial(is_used=False)]
-CATEGORY: Category = Category.EnergyAndUtilities()
+CATEGORY: Category = Category.EnergyAndUtilities(featured=True)
 
 CV_TASKS: List[CVTask] = [CVTask.SemanticSegmentation()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.SemanticSegmentation()]
@@ -45,7 +45,9 @@ GITHUB_URL: str = "https://github.com/dataset-ninja/synthetic-cracks-dataset"
 ##################################
 ### * Optional after uploading ###
 ##################################
-DOWNLOAD_ORIGINAL_URL: Optional[Union[str, dict]] = "https://supervisely.com/blog/introducing-supervisely-synthetic-crack-segmentation-dataset/"
+DOWNLOAD_ORIGINAL_URL: Optional[
+    Union[str, dict]
+] = "https://supervisely.com/blog/introducing-supervisely-synthetic-crack-segmentation-dataset/"
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
 CLASS2COLOR: Optional[Dict[str, List[str]]] = None
