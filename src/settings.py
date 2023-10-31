@@ -57,7 +57,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[Union[str, List[str]]] = None
 BLOGPOST: Optional[Union[str, List[str]]] = None
 CITATION_URL: Optional[str] = None
-AUTHORS: Optional[List[str]] = ["Supervisely"]
+AUTHORS: Optional[List[str]] = None
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Supervisely"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://supervisely.com/"
