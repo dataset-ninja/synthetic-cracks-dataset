@@ -1,6 +1,6 @@
 Dataset **Supervisely Synthetic Crack Segmentation** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/D/o/iJ/ponU2obwAkEn7ICvEWlETNT0WEz9u3yAkqQBpAZn9fkAnllfHQTaaiUDkKNFPAoetfkRTBKHSx6FM1vZUGFIT8VYUQPzBac89FaYdAaWZJ7VDD8XalrRukzuCM05.tar)
+ [Download](https://www.dropbox.com/scl/fi/4oqill27s0iwwllk8ufyr/supervisely-synthetic-crack-segmentation-DatasetNinja.tar?rlkey=8pvbulj6zlqszoccgh9btmsgw&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
