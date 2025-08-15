@@ -1,6 +1,6 @@
 Dataset **Supervisely Synthetic Crack Segmentation** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzE1NDhfU3VwZXJ2aXNlbHkgU3ludGhldGljIENyYWNrIFNlZ21lbnRhdGlvbi9zdXBlcnZpc2VseS1zeW50aGV0aWMtY3JhY2stc2VnbWVudGF0aW9uLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIlE0WE5STi9meWZRclhzSHM5cVVVK29Wb3UzV1Q1S0FEakNUMXVYS3lXODQ9In0=)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMTU0OF9TdXBlcnZpc2VseSBTeW50aGV0aWMgQ3JhY2sgU2VnbWVudGF0aW9uL3N1cGVydmlzZWx5LXN5bnRoZXRpYy1jcmFjay1zZWdtZW50YXRpb24tRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAibGdDVVBwWGoxd3pta3lXV2RDV2hoZUNhek1QSlhKdENUUDdpUTA3Z1NFUT0ifQ==?response-content-disposition=attachment%3B%20filename%3D%22supervisely-synthetic-crack-segmentation-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
